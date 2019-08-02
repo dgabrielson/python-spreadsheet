@@ -1,0 +1,4 @@
+odfpy
+openpyxl<2
+xlrd
+xlwt
